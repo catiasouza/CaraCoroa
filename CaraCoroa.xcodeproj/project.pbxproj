@@ -13,6 +13,7 @@
 		751BC6922350EBCC00212118 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 751BC6902350EBCC00212118 /* Main.storyboard */; };
 		751BC6942350EBCD00212118 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 751BC6932350EBCD00212118 /* Assets.xcassets */; };
 		751BC6972350EBCD00212118 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 751BC6952350EBCD00212118 /* LaunchScreen.storyboard */; };
+		751BC69F2350EFA600212118 /* DetalhesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 751BC69E2350EFA600212118 /* DetalhesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		751BC6932350EBCD00212118 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		751BC6962350EBCD00212118 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		751BC6982350EBCD00212118 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		751BC69E2350EFA600212118 /* DetalhesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				751BC68A2350EBCC00212118 /* AppDelegate.swift */,
 				751BC68C2350EBCC00212118 /* SceneDelegate.swift */,
+				751BC69E2350EFA600212118 /* DetalhesViewController.swift */,
 				751BC68E2350EBCC00212118 /* ViewController.swift */,
 				751BC6902350EBCC00212118 /* Main.storyboard */,
 				751BC6932350EBCD00212118 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				751BC69F2350EFA600212118 /* DetalhesViewController.swift in Sources */,
 				751BC68F2350EBCC00212118 /* ViewController.swift in Sources */,
 				751BC68B2350EBCC00212118 /* AppDelegate.swift in Sources */,
 				751BC68D2350EBCC00212118 /* SceneDelegate.swift in Sources */,
